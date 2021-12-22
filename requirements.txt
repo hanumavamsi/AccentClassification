@@ -1,0 +1,10 @@
+beautifulsoup4
+requests
+pandas
+numpy
+librosa
+pydub
+keras==2.3.1
+tensorflow==1.13.1
+matplotlib
+sklearn

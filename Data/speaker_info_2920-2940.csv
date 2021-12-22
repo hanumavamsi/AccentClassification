@@ -1,0 +1,24 @@
+,speakerid,filename,birthplace,native_language,age,sex,age_onset
+0,2920,english638,"new york, new york, usa",english,3,male,5
+1,2921,english639,"hopkinsville, kentucky, usa",english,3,male,5
+2,2922,english640,"aurora, colorado, usa",english,3,female,5
+3,2923,english641,"fairfax, virginia, usa",english,3,female,5
+4,2924,english642,"woodbridge, virginia, usa",english,3,female,5
+5,2925,english643,"culpeper, virginia, usa",english,3,female,5
+6,2926,english644,"watertown, new york, usa",english,3,female,5
+7,2927,spanish224,"la serena, chile",spanish,3,female,5
+8,2928,nepali18,"gorkha, nepal",nepali,3,female,5
+9,2929,yoruba7,"ibadan, oyo, nigeria",yoruba,3,male,5
+10,2930,korean97,"seoul, south korea",korean,3,female,5
+11,2931,russian81,"kiev, ukraine",russian,3,male,5
+12,2932,english645,"hollister, california, usa",english,3,male,5
+13,2933,spanish225,"durango, mexico",spanish,3,male,5
+14,2934,spanish226,"los mochis, sinaloa, mexico",spanish,3,male,5
+15,2935,spanish227,"durango, durango, mexico",spanish,3,female,5
+16,2936,mandarin150,"taiyuan, shanxi, china",mandarin,3,female,5
+17,2937,hindi34,"pune, india",hindi,3,male,5
+18,2938,spanish228,"piura, peru",spanish,3,female,5
+19,2939,english646,"hazleton, pennsylvania, usa",english,3,male,5
+20,2940,japanese42,"tokyo, japan",japanese,3,male,5
+21,2941,portuguese66,"rio de janeiro, brazil",portuguese,3,female,5
+22,2942,mandarin151,"wuxi, jiangsu, china",mandarin,3,female,5

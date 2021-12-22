@@ -1,0 +1,729 @@
+,speakerid,filename,birthplace,native_language,sex
+0,11,arabic1,"riyadh, saudi arabia",arabic,female
+1,12,arabic10,"cairo, egypt",arabic,male
+2,13,arabic11,"monastir, tunisia",arabic,female
+3,14,arabic12,"baghdad, iraq",arabic,male
+4,15,arabic13,"zabbougha, lebanon",arabic,male
+5,16,arabic2,"damascus, syria",arabic,male
+6,17,arabic3,"doha, qatar",arabic,male
+7,18,arabic4,"sharjah, united arab emirates",arabic,male
+8,19,arabic5,"casablanca, morocco",arabic,female
+9,20,arabic6,"sanaa, yemen",arabic,male
+10,21,arabic7,"casablanca, morocco",arabic,female
+11,22,arabic8,"casablanca, morocco",arabic,male
+12,23,arabic9,"jerusalem, israel",arabic,female
+13,207,hindi1,"nagpur, maharashtra, india",hindi,male
+14,323,spanish1,"caracas, venezuela",spanish,male
+15,324,spanish10,"san luis de la reina, el salvador",spanish,male
+16,325,spanish11,"lima, peru",spanish,female
+17,326,spanish12,"oviedo, spain",spanish,male
+18,327,spanish13,"duitama, colombia",spanish,female
+19,328,spanish14,"pereira, colombia",spanish,female
+20,329,spanish15,"san juan, puerto rico",spanish,male
+21,330,spanish16,"buenos aires, argentina",spanish,male
+22,331,spanish17,"puebla, mexico",spanish,female
+23,332,spanish18,"la paz, bolivia",spanish,male
+24,333,spanish19,"havana, cuba",spanish,female
+25,334,spanish2,"puerto la cruz, venezuela",spanish,male
+26,335,spanish20,"managua, nicaragua",spanish,male
+27,336,spanish21,"santiago, chile",spanish,male
+28,337,spanish22,"madrid, spain",spanish,female
+29,338,spanish23,"santiago, chile",spanish,male
+30,339,spanish24,"mexico city, mexico",spanish,male
+31,340,spanish25,"san jose, costa rica",spanish,male
+32,341,spanish26,"burgos, spain",spanish,male
+33,342,spanish27,"zaragoza, spain",spanish,male
+34,343,spanish28,"san miguel, el salvador",spanish,female
+35,344,spanish3,"bogota, colombia",spanish,female
+36,345,spanish4,"cabanas, el salvador",spanish,female
+37,346,spanish5,"bogota, colombia",spanish,female
+38,347,spanish6,"lima, peru",spanish,male
+39,348,spanish7,"bogota, colombia",spanish,female
+40,349,spanish8,"san salvador, el salvador",spanish,male
+41,350,spanish9,"araure, venezuela",spanish,male
+42,410,spanish29,"maracaibo, zulia, venezuela",spanish,male
+43,428,arabic14,"amman, jordan",arabic,male
+44,437,arabic15,"qayrawan, tunisia",arabic,male
+45,441,spanish30,"buenos aires, argentina",spanish,male
+46,449,spanish31,"guayaquil, ecuador",spanish,female
+47,450,spanish32,"santa cruz, bolivia",spanish,male
+48,467,spanish33,"caracas, venezuela",spanish,male
+49,471,arabic16,"meknes, morocco",arabic,male
+50,476,spanish34,"cartagena, spain",spanish,male
+51,479,spanish35,"mexico city, mexico",spanish,male
+52,499,spanish36,"montevideo, uruguay",spanish,male
+53,512,arabic17,"settat, morocco",arabic,male
+54,539,arabic18,"kuwait city, kuwait",arabic,male
+55,575,spanish37,"tegucigalpa, honduras",spanish,female
+56,576,spanish38,"tegucigalpa, honduras",spanish,male
+57,587,hindi2,"hyderabad, india",hindi,male
+58,593,hindi3,"jalandhar, india",hindi,male
+59,614,spanish39,"pamplona, spain",spanish,male
+60,625,arabic19,"khouribga, morocco",arabic,male
+61,643,arabic20,"chtaura, beqa valley, lebanon",arabic,male
+62,644,spanish40,"cartago, costa rica",spanish,male
+63,670,arabic21,"beirut, lebanon",arabic,female
+64,706,spanish41,"bonao, dominican republic",spanish,male
+65,712,spanish42,"bogota, colombia",spanish,female
+66,714,spanish43,"santiago-dr, dominican republic",spanish,male
+67,715,spanish45,"santiago-dr, dominican republic",spanish,female
+68,716,spanish44,"la romana, dominican republic",spanish,female
+69,717,spanish46,"santo domingo, dominican republic",spanish,male
+70,718,spanish47,"santo domingo, dominican republic",spanish,female
+71,731,spanish48,"bilbao, spain",spanish,male
+72,732,spanish49,"tandil, argentina",spanish,male
+73,752,spanish50,"santo domingo, dominican republic",spanish,male
+74,753,spanish51,"caguas, puerto rico",spanish,male
+75,765,hindi4,"bhilwara, rajisthan, india",hindi,female
+76,777,spanish52,"popayan, cauca, colombia",spanish,female
+77,797,spanish53,"bogota, colombia",spanish,male
+78,800,spanish54,"vina del mar, chile",spanish,male
+79,810,spanish55,"tandil, argentina",spanish,male
+80,838,spanish56,"monterrey, mexico",spanish,male
+81,845,hindi5,"hubballi, karnataka, india",hindi,female
+82,866,hindi6,"new delhi, india",hindi,female
+83,867,hindi7,"allahabad, utter pardesh, india",hindi,female
+84,886,spanish57,"montevideo, uruguay",spanish,male
+85,906,spanish58,"bogota, colombia",spanish,male
+86,908,spanish59,"mayaguez, puerto rico",spanish,female
+87,910,hindi8,"imphal, india",hindi,male
+88,915,spanish60,"santiago-dr, dominican republic",spanish,female
+89,920,arabic22,"abu dhabi, united arab emirates",arabic,female
+90,924,spanish61,"azuaga, spain",spanish,male
+91,925,spanish62,"buenos aires, argentina",spanish,female
+92,927,arabic23,"al mahalla, egypt",arabic,male
+93,959,spanish63,"la coruna, spain",spanish,female
+94,962,spanish64,"medellin, colombia",spanish,male
+95,970,arabic24,"cairo, egypt",arabic,male
+96,1011,arabic25,"ramun, israel (occupied territory)",arabic,male
+97,1012,arabic26,"amman, jordan",arabic,female
+98,1013,arabic27,"jerusalem, israel",arabic,male
+99,1017,hindi9,"durgapur, west bengal, india",hindi,male
+100,1069,spanish65,"barranquilla, colombia",spanish,male
+101,1077,spanish66,"san salvador, el salvador",spanish,male
+102,1111,spanish67,"santa marta, colombia",spanish,female
+103,1115,arabic28,"al-ayn, united arab emirates",arabic,male
+104,1116,arabic29,"doha, qatar",arabic,male
+105,1133,arabic30,"riyadh, saudi arabia",arabic,female
+106,1181,arabic31,"baghdad, iraq",arabic,female
+107,1202,hindi10,"new delhi, india",hindi,female
+108,1203,arabic32,"baghdad, iraq",arabic,male
+109,1204,arabic33,"baghdad, iraq",arabic,female
+110,1227,spanish68,"san fernando, chile",spanish,male
+111,1229,spanish69,"caracas, venezuela",spanish,female
+112,1230,spanish70,"bogota, colombia",spanish,female
+113,1231,spanish71,"rosario, argentina",spanish,male
+114,1238,spanish72,"miami, florida, usa",spanish,female
+115,1240,spanish73,"merida, venezuela",spanish,male
+116,1249,spanish74,"zaragoza, spain",spanish,male
+117,1253,arabic34,"kuwait city, kuwait",arabic,female
+118,1273,spanish75,"lima, peru",spanish,female
+119,1290,spanish76,"la paz, bolivia",spanish,male
+120,1301,spanish77,"jalisco, mexico",spanish,male
+121,1338,spanish78,"lima, peru",spanish,female
+122,1344,spanish79,"lamas, peru",spanish,female
+123,1346,spanish80,"bogota, colombia",spanish,female
+124,1347,spanish81,"san juan, puerto rico",spanish,female
+125,1391,arabic35,"jiddah, saudi arabia",arabic,male
+126,1392,arabic36,"jiddah, saudi arabia",arabic,male
+127,1393,arabic37,"jiddah, saudi arabia",arabic,male
+128,1394,arabic38,"shady grove, maryland, usa",arabic,female
+129,1396,spanish82,"la paz, bolivia",spanish,male
+130,1397,spanish83,"la paz, bolivia",spanish,male
+131,1398,spanish84,"buenos aires, argentina",spanish,female
+132,1399,spanish85,"buenos aires, argentina",spanish,female
+133,1400,spanish86,"buenos aires, argentina",spanish,male
+134,1401,spanish87,"la paz, bolivia",spanish,male
+135,1402,spanish88,"la paz, bolivia",spanish,male
+136,1405,arabic39,"jiddah, saudi arabia",arabic,male
+137,1420,arabic40,"jiddah, saudi arabia",arabic,male
+138,1421,arabic41,"riyadh, saudi arabia",arabic,male
+139,1422,arabic42,"jiddah, saudi arabia",arabic,male
+140,1425,spanish89,"monterrey, mexico",spanish,male
+141,1426,arabic43,"beirut, lebanon",arabic,female
+142,1431,spanish90,"caracas, venezuela",spanish,female
+143,1433,spanish91,"caracas, venezuela",spanish,female
+144,1435,spanish92,"cardenas, cuba",spanish,male
+145,1436,spanish93,"santa rosa, honduras",spanish,female
+146,1437,hindi11,"chandigarh, india",hindi,male
+147,1439,spanish94,"bogota, colombia",spanish,male
+148,1440,hindi12,"allahabad, india",hindi,female
+149,1444,spanish95,"juarez, mexico",spanish,female
+150,1449,spanish96,"arequipa, peru",spanish,female
+151,1450,spanish97,"bogota, colombia",spanish,female
+152,1451,spanish98,"veracruz, mexico",spanish,male
+153,1455,arabic44,"jiddah, saudi arabia",arabic,female
+154,1456,arabic45,"fort collins, colorado, usa",arabic,female
+155,1457,arabic46,"jiddah, saudi arabia",arabic,male
+156,1458,arabic47,"jiddah, saudi arabia",arabic,male
+157,1459,arabic48,"mecca, saudi arabia",arabic,male
+158,1460,arabic49,"medina, saudi arabia",arabic,male
+159,1461,arabic50,"jiddah, saudi arabia",arabic,male
+160,1486,arabic51,"jiddah, saudi arabia",arabic,male
+161,1487,arabic52,"jiddah, saudi arabia",arabic,female
+162,1506,spanish99,"lima, peru",spanish,female
+163,1508,spanish100,"iquitos, peru",spanish,female
+164,1526,arabic53,"rabat, morocco",arabic,male
+165,1565,arabic54,"baghdad, iraq",arabic,male
+166,1569,arabic55,"beirut, lebanon",arabic,male
+167,1574,spanish101,"la union, el salvador",spanish,female
+168,1575,spanish102,"cochabamba, bolivia",spanish,male
+169,1584,spanish103,"san miguel, el salvador",spanish,male
+170,1600,spanish104,"san miguel, el salvador",spanish,female
+171,1613,spanish105,"jerez de la frontera, spain",spanish,female
+172,1621,spanish106,"lima, peru",spanish,male
+173,1622,spanish107,"san salvador, el salvador",spanish,male
+174,1629,spanish108,"medellin, colombia",spanish,male
+175,1633,hindi13,"jaipur, india",hindi,female
+176,1660,spanish109,"maracay, venezuela",spanish,male
+177,1677,arabic56,"ain defla, algeria",arabic,male
+178,1680,spanish110,"caracas, venezuela",spanish,male
+179,1689,spanish111,"santiago, chile",spanish,male
+180,1693,spanish112,"la paz, bolivia",spanish,male
+181,1695,spanish113,"cochabamba, bolivia",spanish,male
+182,1697,hindi14,"new delhi, india",hindi,male
+183,1699,arabic57,"beirut, lebanon",arabic,female
+184,1700,arabic58,"baghdad, iraq",arabic,male
+185,1702,arabic59,"irbid, jordan",arabic,male
+186,1711,arabic60,"cairo, egypt",arabic,male
+187,1732,spanish114,"seville, spain",spanish,female
+188,1744,spanish115,"la paz, bolivia",spanish,female
+189,1747,spanish116,"bogota, colombia",spanish,male
+190,1753,arabic61,"manama, bahrain",arabic,male
+191,1768,arabic62,"ad dammam, saudi arabia",arabic,male
+192,1769,arabic63,"bani walid, libya",arabic,female
+193,1777,arabic64,"riyadh, saudi arabia",arabic,male
+194,1778,arabic65,"samail, oman",arabic,female
+195,1784,arabic66,"medina, saudi arabia",arabic,male
+196,1785,arabic67,"nasriah, iraq",arabic,male
+197,1794,hindi15,"new delhi, india",hindi,female
+198,1797,spanish117,"madrid, spain",spanish,male
+199,1805,arabic68,"london, uk",arabic,male
+200,1806,spanish118,"monterrey, mexico",spanish,female
+201,1807,spanish119,"madrid, spain",spanish,female
+202,1810,arabic69,"kerma, sudan",arabic,female
+203,1823,spanish120,"bogota, colombia",spanish,female
+204,1826,spanish121,"pasaquina, el salvador",spanish,male
+205,1827,arabic70,"casablanca, morocco",arabic,male
+206,1828,arabic71,"kuwait city, kuwait",arabic,female
+207,1831,spanish122,"toluca, mexico",spanish,female
+208,1832,arabic72,"baghdad, iraq",arabic,female
+209,1834,spanish123,"ilbague, colombia",spanish,female
+210,1835,spanish124,"santa cruz, bolivia",spanish,male
+211,1840,spanish125,"lima, peru",spanish,male
+212,1841,arabic73,"nazareth, israel",arabic,female
+213,1853,spanish126,"colon, panama",spanish,female
+214,1860,spanish127,"san salvador, el salvador",spanish,male
+215,1869,spanish128,"lima, peru",spanish,female
+216,1870,arabic74,"alexandria, egypt",arabic,male
+217,1874,spanish129,"havana, cuba",spanish,female
+218,1885,arabic75,"riyadh, saudi arabia",arabic,female
+219,1891,spanish130,"guayaquil, ecuador",spanish,male
+220,1892,arabic76,"jiddah, saudi arabia",arabic,male
+221,1894,arabic77,"ad dammam, saudi arabia",arabic,female
+222,1897,arabic78,"washington, district of columbia, usa",arabic,female
+223,1899,arabic79,"medina, saudi arabia",arabic,female
+224,1901,arabic80,"najran, saudi arabia",arabic,male
+225,1903,spanish131,"havana, cuba",spanish,male
+226,1904,spanish132,"rio piedras, puerto rico",spanish,female
+227,1914,arabic81,"riyadh, saudi arabia",arabic,male
+228,1916,spanish133,"cochabamba, bolivia",spanish,male
+229,1917,arabic82,"damascus, syria",arabic,male
+230,1920,arabic83,"riyadh, saudi arabia",arabic,male
+231,1921,spanish134,"la union, el salvador",spanish,female
+232,1923,spanish135,"santiago de cuba, cuba",spanish,female
+233,1927,arabic84,"medina, saudi arabia",arabic,female
+234,1949,spanish136,"santiago, chile",spanish,male
+235,1963,arabic85,"ad dammam, saudi arabia",arabic,female
+236,1964,arabic86,"cairo, egypt",arabic,male
+237,1966,hindi16,"new delhi, india",hindi,male
+238,1979,spanish137,"santa ana, el salvador",spanish,female
+239,1980,spanish138,"san miguel, el salvador",spanish,female
+240,1981,spanish139,"guatemala city, guatemala",spanish,male
+241,1985,spanish140,"cochabamba, bolivia",spanish,female
+242,1988,hindi17,"new delhi, india",hindi,female
+243,2005,arabic87,"kuwait city, kuwait",arabic,female
+244,2008,arabic88,"beirut, lebanon",arabic,female
+245,2009,spanish141,"la union, el salvador",spanish,male
+246,2016,spanish142,"san salvador, el salvador",spanish,female
+247,2022,arabic89,"baghdad, iraq",arabic,female
+248,2026,spanish143,"oviedo, spain",spanish,male
+249,2036,arabic90,"tripoli, libya",arabic,female
+250,2051,spanish144,"florencia, zacatecas, mexico",spanish,female
+251,2052,spanish145,"florencia, zacatecas, mexico",spanish,female
+252,2057,spanish146,"las palmas, oaxaca, mexico",spanish,male
+253,2078,spanish147,"puerto_cabezas, nicaragua",spanish,male
+254,2079,spanish148,"la ceiba, honduras",spanish,male
+255,2086,arabic91,"riyadh, saudi arabia",arabic,female
+256,2087,arabic92,"baghdad, iraq",arabic,male
+257,2091,spanish149,"bilwi, puerto cabezas, nicaragua",spanish,male
+258,2094,spanish150,"bilwi, puerto cabezas, nicaragua",spanish,male
+259,2096,spanish151,"bilwas karma, rio coco, nicaragua",spanish,female
+260,2100,spanish152,"barcelona, spain",spanish,male
+261,2112,arabic93,"baghdad, iraq",arabic,female
+262,2114,arabic94,"abu dhabi, united arab emirates",arabic,female
+263,2118,spanish153,"bogota, colombia",spanish,male
+264,2125,hindi18,"new delhi, india",hindi,female
+265,2127,spanish154,"montevideo, uruguay",spanish,male
+266,2130,spanish155,"lima, peru",spanish,male
+267,2142,spanish156,"montevideo, uruguay",spanish,female
+268,2143,arabic95,"kuwait city, kuwait",arabic,female
+269,2144,spanish157,"mexico city, mexico",spanish,female
+270,2148,spanish158,"santurce, puerto rico",spanish,female
+271,2149,spanish159,"san salvador, el salvador",spanish,male
+272,2150,spanish160,"bogota, colombia",spanish,male
+273,2153,arabic96,"riyadh, saudi arabia",arabic,male
+274,2154,arabic97,"sharjah, united arab emirates",arabic,female
+275,2155,arabic98,"ras al khaimah, united arab emirates",arabic,female
+276,2156,spanish161,"leon, nicaragua",spanish,female
+277,2157,arabic99,"ad dammam, saudi arabia",arabic,female
+278,2159,arabic100,"beirut, lebanon",arabic,female
+279,2160,arabic101,"doha, qatar",arabic,male
+280,2161,arabic102,"jiddah, saudi arabia",arabic,male
+281,2169,spanish162,"mexico city, mexico",spanish,male
+282,2196,arabic103,"baghdad, iraq",arabic,male
+283,2200,arabic104,"riyadh, saudi arabia",arabic,female
+284,2201,arabic105,"riyadh, saudi arabia",arabic,female
+285,2202,arabic106,"riyadh, saudi arabia",arabic,male
+286,2203,arabic107,"riyadh, saudi arabia",arabic,male
+287,2204,arabic108,"riyadh, saudi arabia",arabic,female
+288,2205,arabic109,"riyadh, saudi arabia",arabic,female
+289,2206,hindi19,"irving, texas, usa",hindi,male
+290,2209,hindi20,"hazaribagh, jharkhand, india",hindi,male
+291,2212,spanish163,"asuncion, paraguay",spanish,male
+292,2216,arabic110,"riyadh, saudi arabia",arabic,male
+293,2217,arabic111,"riyadh, saudi arabia",arabic,female
+294,2218,arabic112,"riyadh, saudi arabia",arabic,female
+295,2219,arabic113,"riyadh, saudi arabia",arabic,female
+296,2220,arabic114,"amman, jordan",arabic,female
+297,2222,arabic115,"damascus, syria",arabic,female
+298,2230,spanish164,"zacatecas, mexico",spanish,female
+299,2235,spanish165,"mayaguez, puerto rico",spanish,male
+300,2236,hindi21,"faridabad, haryana, india",hindi,male
+301,2238,spanish166,"santo domingo, dominican republic",spanish,female
+302,2239,spanish167,"lima, peru",spanish,female
+303,2240,spanish168,"pasto, colombia",spanish,male
+304,2242,hindi22,"meerut, uttar pradesh, india",hindi,male
+305,2243,arabic116,"al ras, saudi arabia",arabic,female
+306,2250,spanish169,"ponce, puerto rico",spanish,female
+307,2253,arabic117,"al ras, saudi arabia",arabic,male
+308,2254,arabic118,"riyadh, saudi arabia",arabic,male
+309,2256,arabic119,"jiddah, saudi arabia",arabic,male
+310,2257,arabic120,"riyadh, saudi arabia",arabic,male
+311,2258,arabic121,"riyadh, saudi arabia",arabic,male
+312,2259,spanish170,"cochabamba, bolivia",spanish,male
+313,2260,spanish171,"guayaquil, ecuador",spanish,female
+314,2268,arabic122,"sabt alalaya, saudi arabia",arabic,male
+315,2279,spanish172,"la union, el salvador",spanish,male
+316,2288,spanish173,"ambato, ecuador",spanish,female
+317,2298,spanish174,"falcon, venezuela",spanish,female
+318,2300,spanish175,"rio piedras, puerto rico",spanish,female
+319,2303,hindi23,"raj nagar, rajasthan, india",hindi,male
+320,2304,arabic123,"riyadh, saudi arabia",arabic,male
+321,2310,arabic124,"geulmim, morocco",arabic,male
+322,2311,arabic125,"beersheba, israel",arabic,male
+323,2312,arabic126,"beersheba, israel",arabic,male
+324,2313,arabic127,"tarshiha-maalot, israel",arabic,female
+325,2317,spanish176,"panama city, panama",spanish,male
+326,2321,arabic128,"riyadh, saudi arabia",arabic,male
+327,2328,spanish177,"sonsonate, el salvador",spanish,female
+328,2331,arabic129,"ramallah, palestine",arabic,male
+329,2335,spanish178,"chalatenango, el salvador",spanish,female
+330,2336,spanish179,"san miguel, el salvador",spanish,female
+331,2338,spanish180,"cochabamba, bolivia",spanish,male
+332,2344,arabic130,"unizah, saudi arabia",arabic,male
+333,2345,arabic131,"riyadh, saudi arabia",arabic,male
+334,2352,hindi24,"jamshedpur, jharkhand, india",hindi,female
+335,2353,hindi25,"pune, maharashtra, india",hindi,male
+336,2354,hindi26,"kolkata, west bengal, india",hindi,male
+337,2356,hindi27,"surat, gujarat, india",hindi,male
+338,2364,spanish181,"lima, peru",spanish,female
+339,2366,hindi28,"patna, india",hindi,male
+340,2367,spanish182,"trujillo, peru",spanish,male
+341,2370,spanish183,"bogota, colombia",spanish,female
+342,2371,spanish184,"lima, peru",spanish,male
+343,2372,spanish185,"san salvador, el salvadore",spanish,female
+344,2373,spanish186,"tegucigalpa, honduras",spanish,male
+345,2387,arabic132,"cairo, egypt",arabic,female
+346,2393,spanish187,"santurce, puerto rico",spanish,female
+347,2396,spanish188,"panama city, panama",spanish,female
+348,2397,spanish189,"santa clara, san vicente, el salvador",spanish,male
+349,2399,arabic133,"abha, saudi arabia",arabic,female
+350,2401,spanish190,"bogota, colombia",spanish,male
+351,2407,arabic134,"abha, saudi arabia",arabic,female
+352,2410,arabic135,"riyadh, saudi arabia",arabic,female
+353,2411,arabic136,"cardiff, wales, uk",arabic,female
+354,2425,arabic137,"al-ayn, united arab emirates",arabic,male
+355,2426,arabic138,"riyadh, saudi arabia",arabic,male
+356,2427,arabic139,"khartoum, sudan",arabic,male
+357,2433,arabic140,"taif, saudi arabia",arabic,female
+358,2434,spanish191,"bogota, colombia",spanish,female
+359,2437,arabic141,"cairo, egypt",arabic,male
+360,2452,arabic142,"almajmaah, saudi arabia",arabic,male
+361,2459,hindi29,"chennai, tamil nadu, india",hindi,male
+362,2466,spanish192,"cordoba, argentina",spanish,male
+363,2467,spanish193,"david, panama",spanish,female
+364,2470,arabic143,"medina, saudi arabia",arabic,female
+365,2471,spanish194,"cochabamba, bolivia",spanish,male
+366,2475,spanish195,"guatemala city, guatemala",spanish,female
+367,2478,hindi30,"ludhiana, india",hindi,female
+368,2479,arabic144,"laayoune, morocco",arabic,male
+369,2482,spanish196,"san cristobal, dominican republic",spanish,female
+370,2488,arabic145,"riyadh, saudi arabia",arabic,female
+371,2491,spanish197,"madrid, spain",spanish,female
+372,2496,spanish198,"tejupilco, mexico",spanish,female
+373,2507,spanish199,"san juan, puerto rico",spanish,male
+374,2508,arabic146,"amman, jordan",arabic,male
+375,2521,spanish200,"bogota, colombia",spanish,female
+376,2544,arabic147,"baha, saudi arabia",arabic,female
+377,2550,arabic148,"taif, saudi arabia",arabic,female
+378,2584,arabic149,"riyadh, saudi arabia",arabic,female
+379,2586,spanish201,"mexico city, mexico",spanish,male
+380,2588,spanish202,"mexico city, mexico",spanish,female
+381,2590,spanish203,"usulutan, el salvador",spanish,female
+382,2592,arabic150,"riyadh, saudi arabia",arabic,female
+383,2598,arabic151,"riyadh, saudi arabia",arabic,female
+384,2602,spanish204,"almeria, spain",spanish,male
+385,2607,arabic152,"riyadh, saudi arabia",arabic,female
+386,2609,hindi31,"rajkot, gujarat, india",hindi,female
+387,2614,spanish205,"cerete, colombia",spanish,male
+388,2615,spanish206,"santiago, chile",spanish,female
+389,2676,arabic153,"kuwait city, kuwait",arabic,male
+390,2684,spanish207,"ica, peru",spanish,female
+391,2692,spanish208,"santo domingo, dominican republic",spanish,male
+392,2693,arabic154,"baha, saudi arabia",arabic,male
+393,2703,hindi32,"new delhi, india",hindi,female
+394,2705,spanish209,"lima, peru",spanish,female
+395,2720,arabic155,"buraydah, saudi arabia",arabic,male
+396,2729,spanish210,"cordoba, argentina",spanish,female
+397,2730,arabic156,"cairo, egypt",arabic,female
+398,2734,arabic157,"sanaa, yemen",arabic,female
+399,2741,arabic158,"jakarta, indonesia",arabic,male
+400,2742,arabic159,"medina, saudi arabia",arabic,male
+401,2743,arabic160,"amman, jordan",arabic,female
+402,2749,arabic161,"minya, egypt",arabic,female
+403,2750,arabic162,"buraydah, saudi arabia",arabic,male
+404,2752,arabic163,"bouznika, morocco",arabic,female
+405,2760,spanish211,"la paz, bolivia",spanish,female
+406,2761,spanish212,"la union, el salvador",spanish,female
+407,2764,hindi33,"hyderabad, india",hindi,female
+408,2765,arabic164,"sale, morocco",arabic,female
+409,2769,spanish213,"loja, ecuador",spanish,male
+410,2770,spanish214,"neiva, colombia",spanish,female
+411,2771,arabic165,"beirut, lebanon",arabic,female
+412,2780,arabic166,"buraydah, saudi arabia",arabic,male
+413,2788,arabic167,"alkharj, saudi arabia",arabic,male
+414,2791,spanish215,"cochabamba, bolivia",spanish,female
+415,2794,arabic168,"jiddah, saudi arabia",arabic,female
+416,2801,spanish216,"caracas, venezuela",spanish,female
+417,2809,arabic169,"tripoli, libya",arabic,female
+418,2811,arabic170,"vienna, virginia, usa",arabic,female
+419,2827,spanish217,"bogota, colombia",spanish,female
+420,2829,spanish218,"danli, honduras",spanish,female
+421,2832,arabic171,"medina, saudi arabia",arabic,male
+422,2835,spanish219,"santa ana, el salvador",spanish,female
+423,2842,arabic172,"montgomery, alabama, usa",arabic,male
+424,2844,spanish220,"guadalajara, jalisco, mexico",spanish,male
+425,2858,arabic173,"tyre, lebanon",arabic,female
+426,2861,spanish221,"bogota, colombia",spanish,female
+427,2864,arabic174,"riyadh, saudi arabia",arabic,female
+428,2865,spanish222,"villalba, puerto rico",spanish,female
+429,2867,spanish223,"santa rosa, texas, usa",spanish,female
+430,2868,arabic175,"jiddah, saudi arabia",arabic,male
+431,2873,arabic176,"jiddah, saudi arabia",arabic,male
+432,2889,arabic177,"riyadh, saudi arabia",arabic,male
+433,2899,arabic178,"jiddah, saudi arabia",arabic,male
+434,2900,arabic179,"riyadh, saudi arabia",arabic,male
+435,2901,arabic180,"riyadh, saudi arabia",arabic,male
+436,2902,arabic181,"riyadh, saudi arabia",arabic,male
+437,2903,arabic182,"riyadh, saudi arabia",arabic,female
+438,2904,arabic183,"riyadh, saudi arabia",arabic,female
+439,2905,arabic184,"riyadh, saudi arabia",arabic,male
+440,2906,arabic185,"riyadh, saudi arabia",arabic,male
+441,2907,arabic186,"riyadh, saudi arabia",arabic,female
+442,2908,arabic187,"riyadh, saudi arabia",arabic,female
+443,2909,arabic188,"riyadh, saudi arabia",arabic,male
+444,2910,arabic189,"riyadh, saudi arabia",arabic,female
+445,2911,arabic190,"riyadh, saudi arabia",arabic,female
+446,2912,arabic191,"riyadh, saudi arabia",arabic,female
+447,2913,arabic192,"riyadh, saudi arabia",arabic,female
+448,2914,arabic193,"riyadh, saudi arabia",arabic,male
+449,2915,arabic194,"riyadh, saudi arabia",arabic,male
+450,2927,spanish224,"la serena, chile",spanish,female
+451,2933,spanish225,"durango, mexico",spanish,male
+452,2934,spanish226,"los mochis, sinaloa, mexico",spanish,male
+453,2935,spanish227,"durango, durango, mexico",spanish,female
+454,2937,hindi34,"pune, india",hindi,male
+455,2938,spanish228,"piura, peru",spanish,female
+0,2943,hindi10_pitch1,"new delhi, india",hindi,female
+1,2944,hindi10_pitch2,"new delhi, india",hindi,female
+2,2945,hindi10_roll,"new delhi, india",hindi,female
+3,2946,hindi10_roll2,"new delhi, india",hindi,female
+4,2947,hindi10_stretch1,"new delhi, india",hindi,female
+5,2948,hindi10_stretch2,"new delhi, india",hindi,female
+6,2949,hindi10_wn,"new delhi, india",hindi,female
+7,2950,hindi10_wn2,"new delhi, india",hindi,female
+8,2951,hindi11_pitch1,"chandigarh, india",hindi,male
+9,2952,hindi11_pitch2,"chandigarh, india",hindi,male
+10,2953,hindi11_roll,"chandigarh, india",hindi,male
+11,2954,hindi11_roll2,"chandigarh, india",hindi,male
+12,2955,hindi11_stretch1,"chandigarh, india",hindi,male
+13,2956,hindi11_stretch2,"chandigarh, india",hindi,male
+14,2957,hindi11_wn,"chandigarh, india",hindi,male
+15,2958,hindi11_wn2,"chandigarh, india",hindi,male
+16,2959,hindi12_pitch1,"allahabad, india",hindi,female
+17,2960,hindi12_pitch2,"allahabad, india",hindi,female
+18,2961,hindi12_roll,"allahabad, india",hindi,female
+19,2962,hindi12_roll2,"allahabad, india",hindi,female
+20,2963,hindi12_stretch1,"allahabad, india",hindi,female
+21,2964,hindi12_stretch2,"allahabad, india",hindi,female
+22,2965,hindi12_wn,"allahabad, india",hindi,female
+23,2966,hindi12_wn2,"allahabad, india",hindi,female
+24,2967,hindi13_pitch1,"jaipur, india",hindi,female
+25,2968,hindi13_pitch2,"jaipur, india",hindi,female
+26,2969,hindi13_roll,"jaipur, india",hindi,female
+27,2970,hindi13_roll2,"jaipur, india",hindi,female
+28,2971,hindi13_stretch1,"jaipur, india",hindi,female
+29,2972,hindi13_stretch2,"jaipur, india",hindi,female
+30,2973,hindi13_wn,"jaipur, india",hindi,female
+31,2974,hindi13_wn2,"jaipur, india",hindi,female
+32,2975,hindi14_pitch1,"new delhi, india",hindi,male
+33,2976,hindi14_pitch2,"new delhi, india",hindi,male
+34,2977,hindi14_roll,"new delhi, india",hindi,male
+35,2978,hindi14_roll2,"new delhi, india",hindi,male
+36,2979,hindi14_stretch1,"new delhi, india",hindi,male
+37,2980,hindi14_stretch2,"new delhi, india",hindi,male
+38,2981,hindi14_wn,"new delhi, india",hindi,male
+39,2982,hindi14_wn2,"new delhi, india",hindi,male
+40,2983,hindi15_pitch1,"new delhi, india",hindi,female
+41,2984,hindi15_pitch2,"new delhi, india",hindi,female
+42,2985,hindi15_roll,"new delhi, india",hindi,female
+43,2986,hindi15_roll2,"new delhi, india",hindi,female
+44,2987,hindi15_stretch1,"new delhi, india",hindi,female
+45,2988,hindi15_stretch2,"new delhi, india",hindi,female
+46,2989,hindi15_wn,"new delhi, india",hindi,female
+47,2990,hindi15_wn2,"new delhi, india",hindi,female
+48,2991,hindi16_pitch1,"new delhi, india",hindi,male
+49,2992,hindi16_pitch2,"new delhi, india",hindi,male
+50,2993,hindi16_roll,"new delhi, india",hindi,male
+51,2994,hindi16_roll2,"new delhi, india",hindi,male
+52,2995,hindi16_stretch1,"new delhi, india",hindi,male
+53,2996,hindi16_stretch2,"new delhi, india",hindi,male
+54,2997,hindi16_wn,"new delhi, india",hindi,male
+55,2998,hindi16_wn2,"new delhi, india",hindi,male
+56,2999,hindi17_pitch1,"new delhi, india",hindi,female
+57,3000,hindi17_pitch2,"new delhi, india",hindi,female
+58,3001,hindi17_roll,"new delhi, india",hindi,female
+59,3002,hindi17_roll2,"new delhi, india",hindi,female
+60,3003,hindi17_stretch1,"new delhi, india",hindi,female
+61,3004,hindi17_stretch2,"new delhi, india",hindi,female
+62,3005,hindi17_wn,"new delhi, india",hindi,female
+63,3006,hindi17_wn2,"new delhi, india",hindi,female
+64,3007,hindi18_pitch1,"new delhi, india",hindi,female
+65,3008,hindi18_pitch2,"new delhi, india",hindi,female
+66,3009,hindi18_roll,"new delhi, india",hindi,female
+67,3010,hindi18_roll2,"new delhi, india",hindi,female
+68,3011,hindi18_stretch1,"new delhi, india",hindi,female
+69,3012,hindi18_stretch2,"new delhi, india",hindi,female
+70,3013,hindi18_wn,"new delhi, india",hindi,female
+71,3014,hindi18_wn2,"new delhi, india",hindi,female
+72,3015,hindi19_pitch1,"irving, texas, usa",hindi,male
+73,3016,hindi19_pitch2,"irving, texas, usa",hindi,male
+74,3017,hindi19_roll,"irving, texas, usa",hindi,male
+75,3018,hindi19_roll2,"irving, texas, usa",hindi,male
+76,3019,hindi19_stretch1,"irving, texas, usa",hindi,male
+77,3020,hindi19_stretch2,"irving, texas, usa",hindi,male
+78,3021,hindi19_wn,"irving, texas, usa",hindi,male
+79,3022,hindi19_wn2,"irving, texas, usa",hindi,male
+80,3023,hindi1_pitch1,"nagpur, maharashtra, india",hindi,male
+81,3024,hindi1_pitch2,"nagpur, maharashtra, india",hindi,male
+82,3025,hindi1_roll,"nagpur, maharashtra, india",hindi,male
+83,3026,hindi1_roll2,"nagpur, maharashtra, india",hindi,male
+84,3027,hindi1_stretch1,"nagpur, maharashtra, india",hindi,male
+85,3028,hindi1_stretch2,"nagpur, maharashtra, india",hindi,male
+86,3029,hindi1_wn,"nagpur, maharashtra, india",hindi,male
+87,3030,hindi1_wn2,"nagpur, maharashtra, india",hindi,male
+88,3031,hindi20_pitch1,"hazaribagh, jharkhand, india",hindi,male
+89,3032,hindi20_pitch2,"hazaribagh, jharkhand, india",hindi,male
+90,3033,hindi20_roll,"hazaribagh, jharkhand, india",hindi,male
+91,3034,hindi20_roll2,"hazaribagh, jharkhand, india",hindi,male
+92,3035,hindi20_stretch1,"hazaribagh, jharkhand, india",hindi,male
+93,3036,hindi20_stretch2,"hazaribagh, jharkhand, india",hindi,male
+94,3037,hindi20_wn,"hazaribagh, jharkhand, india",hindi,male
+95,3038,hindi20_wn2,"hazaribagh, jharkhand, india",hindi,male
+96,3039,hindi21_pitch1,"faridabad, haryana, india",hindi,male
+97,3040,hindi21_pitch2,"faridabad, haryana, india",hindi,male
+98,3041,hindi21_roll,"faridabad, haryana, india",hindi,male
+99,3042,hindi21_roll2,"faridabad, haryana, india",hindi,male
+100,3043,hindi21_stretch1,"faridabad, haryana, india",hindi,male
+101,3044,hindi21_stretch2,"faridabad, haryana, india",hindi,male
+102,3045,hindi21_wn,"faridabad, haryana, india",hindi,male
+103,3046,hindi21_wn2,"faridabad, haryana, india",hindi,male
+104,3047,hindi22_pitch1,"meerut, uttar pradesh, india",hindi,male
+105,3048,hindi22_pitch2,"meerut, uttar pradesh, india",hindi,male
+106,3049,hindi22_roll,"meerut, uttar pradesh, india",hindi,male
+107,3050,hindi22_roll2,"meerut, uttar pradesh, india",hindi,male
+108,3051,hindi22_stretch1,"meerut, uttar pradesh, india",hindi,male
+109,3052,hindi22_stretch2,"meerut, uttar pradesh, india",hindi,male
+110,3053,hindi22_wn,"meerut, uttar pradesh, india",hindi,male
+111,3054,hindi22_wn2,"meerut, uttar pradesh, india",hindi,male
+112,3055,hindi23_pitch1,"raj nagar, rajasthan, india",hindi,male
+113,3056,hindi23_pitch2,"raj nagar, rajasthan, india",hindi,male
+114,3057,hindi23_roll,"raj nagar, rajasthan, india",hindi,male
+115,3058,hindi23_roll2,"raj nagar, rajasthan, india",hindi,male
+116,3059,hindi23_stretch1,"raj nagar, rajasthan, india",hindi,male
+117,3060,hindi23_stretch2,"raj nagar, rajasthan, india",hindi,male
+118,3061,hindi23_wn,"raj nagar, rajasthan, india",hindi,male
+119,3062,hindi23_wn2,"raj nagar, rajasthan, india",hindi,male
+120,3063,hindi24_pitch1,"jamshedpur, jharkhand, india",hindi,female
+121,3064,hindi24_pitch2,"jamshedpur, jharkhand, india",hindi,female
+122,3065,hindi24_roll,"jamshedpur, jharkhand, india",hindi,female
+123,3066,hindi24_roll2,"jamshedpur, jharkhand, india",hindi,female
+124,3067,hindi24_stretch1,"jamshedpur, jharkhand, india",hindi,female
+125,3068,hindi24_stretch2,"jamshedpur, jharkhand, india",hindi,female
+126,3069,hindi24_wn,"jamshedpur, jharkhand, india",hindi,female
+127,3070,hindi24_wn2,"jamshedpur, jharkhand, india",hindi,female
+128,3071,hindi25_pitch1,"pune, maharashtra, india",hindi,male
+129,3072,hindi25_pitch2,"pune, maharashtra, india",hindi,male
+130,3073,hindi25_roll,"pune, maharashtra, india",hindi,male
+131,3074,hindi25_roll2,"pune, maharashtra, india",hindi,male
+132,3075,hindi25_stretch1,"pune, maharashtra, india",hindi,male
+133,3076,hindi25_stretch2,"pune, maharashtra, india",hindi,male
+134,3077,hindi25_wn,"pune, maharashtra, india",hindi,male
+135,3078,hindi25_wn2,"pune, maharashtra, india",hindi,male
+136,3079,hindi26_pitch1,"kolkata, west bengal, india",hindi,male
+137,3080,hindi26_pitch2,"kolkata, west bengal, india",hindi,male
+138,3081,hindi26_roll,"kolkata, west bengal, india",hindi,male
+139,3082,hindi26_roll2,"kolkata, west bengal, india",hindi,male
+140,3083,hindi26_stretch1,"kolkata, west bengal, india",hindi,male
+141,3084,hindi26_stretch2,"kolkata, west bengal, india",hindi,male
+142,3085,hindi26_wn,"kolkata, west bengal, india",hindi,male
+143,3086,hindi26_wn2,"kolkata, west bengal, india",hindi,male
+144,3087,hindi27_pitch1,"surat, gujarat, india",hindi,male
+145,3088,hindi27_pitch2,"surat, gujarat, india",hindi,male
+146,3089,hindi27_roll,"surat, gujarat, india",hindi,male
+147,3090,hindi27_roll2,"surat, gujarat, india",hindi,male
+148,3091,hindi27_stretch1,"surat, gujarat, india",hindi,male
+149,3092,hindi27_stretch2,"surat, gujarat, india",hindi,male
+150,3093,hindi27_wn,"surat, gujarat, india",hindi,male
+151,3094,hindi27_wn2,"surat, gujarat, india",hindi,male
+152,3095,hindi28_pitch1,"patna, india",hindi,male
+153,3096,hindi28_pitch2,"patna, india",hindi,male
+154,3097,hindi28_roll,"patna, india",hindi,male
+155,3098,hindi28_roll2,"patna, india",hindi,male
+156,3099,hindi28_stretch1,"patna, india",hindi,male
+157,3100,hindi28_stretch2,"patna, india",hindi,male
+158,3101,hindi28_wn,"patna, india",hindi,male
+159,3102,hindi28_wn2,"patna, india",hindi,male
+160,3103,hindi29_pitch1,"chennai, tamil nadu, india",hindi,male
+161,3104,hindi29_pitch2,"chennai, tamil nadu, india",hindi,male
+162,3105,hindi29_roll,"chennai, tamil nadu, india",hindi,male
+163,3106,hindi29_roll2,"chennai, tamil nadu, india",hindi,male
+164,3107,hindi29_stretch1,"chennai, tamil nadu, india",hindi,male
+165,3108,hindi29_stretch2,"chennai, tamil nadu, india",hindi,male
+166,3109,hindi29_wn,"chennai, tamil nadu, india",hindi,male
+167,3110,hindi29_wn2,"chennai, tamil nadu, india",hindi,male
+168,3111,hindi2_pitch1,"hyderabad, india",hindi,male
+169,3112,hindi2_pitch2,"hyderabad, india",hindi,male
+170,3113,hindi2_roll,"hyderabad, india",hindi,male
+171,3114,hindi2_roll2,"hyderabad, india",hindi,male
+172,3115,hindi2_stretch1,"hyderabad, india",hindi,male
+173,3116,hindi2_stretch2,"hyderabad, india",hindi,male
+174,3117,hindi2_wn,"hyderabad, india",hindi,male
+175,3118,hindi2_wn2,"hyderabad, india",hindi,male
+176,3119,hindi30_pitch1,"ludhiana, india",hindi,female
+177,3120,hindi30_pitch2,"ludhiana, india",hindi,female
+178,3121,hindi30_roll,"ludhiana, india",hindi,female
+179,3122,hindi30_roll2,"ludhiana, india",hindi,female
+180,3123,hindi30_stretch1,"ludhiana, india",hindi,female
+181,3124,hindi30_stretch2,"ludhiana, india",hindi,female
+182,3125,hindi30_wn,"ludhiana, india",hindi,female
+183,3126,hindi30_wn2,"ludhiana, india",hindi,female
+184,3127,hindi31_pitch1,"rajkot, gujarat, india",hindi,female
+185,3128,hindi31_pitch2,"rajkot, gujarat, india",hindi,female
+186,3129,hindi31_roll,"rajkot, gujarat, india",hindi,female
+187,3130,hindi31_roll2,"rajkot, gujarat, india",hindi,female
+188,3131,hindi31_stretch1,"rajkot, gujarat, india",hindi,female
+189,3132,hindi31_stretch2,"rajkot, gujarat, india",hindi,female
+190,3133,hindi31_wn,"rajkot, gujarat, india",hindi,female
+191,3134,hindi31_wn2,"rajkot, gujarat, india",hindi,female
+192,3135,hindi32_pitch1,"new delhi, india",hindi,female
+193,3136,hindi32_pitch2,"new delhi, india",hindi,female
+194,3137,hindi32_roll,"new delhi, india",hindi,female
+195,3138,hindi32_roll2,"new delhi, india",hindi,female
+196,3139,hindi32_stretch1,"new delhi, india",hindi,female
+197,3140,hindi32_stretch2,"new delhi, india",hindi,female
+198,3141,hindi32_wn,"new delhi, india",hindi,female
+199,3142,hindi32_wn2,"new delhi, india",hindi,female
+200,3143,hindi33_pitch1,"hyderabad, india",hindi,female
+201,3144,hindi33_pitch2,"hyderabad, india",hindi,female
+202,3145,hindi33_roll,"hyderabad, india",hindi,female
+203,3146,hindi33_roll2,"hyderabad, india",hindi,female
+204,3147,hindi33_stretch1,"hyderabad, india",hindi,female
+205,3148,hindi33_stretch2,"hyderabad, india",hindi,female
+206,3149,hindi33_wn,"hyderabad, india",hindi,female
+207,3150,hindi33_wn2,"hyderabad, india",hindi,female
+208,3151,hindi34_pitch1,"pune, india",hindi,male
+209,3152,hindi34_pitch2,"pune, india",hindi,male
+210,3153,hindi34_roll,"pune, india",hindi,male
+211,3154,hindi34_roll2,"pune, india",hindi,male
+212,3155,hindi34_stretch1,"pune, india",hindi,male
+213,3156,hindi34_stretch2,"pune, india",hindi,male
+214,3157,hindi34_wn,"pune, india",hindi,male
+215,3158,hindi34_wn2,"pune, india",hindi,male
+216,3159,hindi3_pitch1,"jalandhar, india",hindi,male
+217,3160,hindi3_pitch2,"jalandhar, india",hindi,male
+218,3161,hindi3_roll,"jalandhar, india",hindi,male
+219,3162,hindi3_roll2,"jalandhar, india",hindi,male
+220,3163,hindi3_stretch1,"jalandhar, india",hindi,male
+221,3164,hindi3_stretch2,"jalandhar, india",hindi,male
+222,3165,hindi3_wn,"jalandhar, india",hindi,male
+223,3166,hindi3_wn2,"jalandhar, india",hindi,male
+224,3167,hindi4_pitch1,"bhilwara, rajisthan, india",hindi,female
+225,3168,hindi4_pitch2,"bhilwara, rajisthan, india",hindi,female
+226,3169,hindi4_roll,"bhilwara, rajisthan, india",hindi,female
+227,3170,hindi4_roll2,"bhilwara, rajisthan, india",hindi,female
+228,3171,hindi4_stretch1,"bhilwara, rajisthan, india",hindi,female
+229,3172,hindi4_stretch2,"bhilwara, rajisthan, india",hindi,female
+230,3173,hindi4_wn,"bhilwara, rajisthan, india",hindi,female
+231,3174,hindi4_wn2,"bhilwara, rajisthan, india",hindi,female
+232,3175,hindi5_pitch1,"hubballi, karnataka, india",hindi,female
+233,3176,hindi5_pitch2,"hubballi, karnataka, india",hindi,female
+234,3177,hindi5_roll,"hubballi, karnataka, india",hindi,female
+235,3178,hindi5_roll2,"hubballi, karnataka, india",hindi,female
+236,3179,hindi5_stretch1,"hubballi, karnataka, india",hindi,female
+237,3180,hindi5_stretch2,"hubballi, karnataka, india",hindi,female
+238,3181,hindi5_wn,"hubballi, karnataka, india",hindi,female
+239,3182,hindi5_wn2,"hubballi, karnataka, india",hindi,female
+240,3183,hindi6_pitch1,"new delhi, india",hindi,female
+241,3184,hindi6_pitch2,"new delhi, india",hindi,female
+242,3185,hindi6_roll,"new delhi, india",hindi,female
+243,3186,hindi6_roll2,"new delhi, india",hindi,female
+244,3187,hindi6_stretch1,"new delhi, india",hindi,female
+245,3188,hindi6_stretch2,"new delhi, india",hindi,female
+246,3189,hindi6_wn,"new delhi, india",hindi,female
+247,3190,hindi6_wn2,"new delhi, india",hindi,female
+248,3191,hindi7_pitch1,"allahabad, utter pardesh, india",hindi,female
+249,3192,hindi7_pitch2,"allahabad, utter pardesh, india",hindi,female
+250,3193,hindi7_roll,"allahabad, utter pardesh, india",hindi,female
+251,3194,hindi7_roll2,"allahabad, utter pardesh, india",hindi,female
+252,3195,hindi7_stretch1,"allahabad, utter pardesh, india",hindi,female
+253,3196,hindi7_stretch2,"allahabad, utter pardesh, india",hindi,female
+254,3197,hindi7_wn,"allahabad, utter pardesh, india",hindi,female
+255,3198,hindi7_wn2,"allahabad, utter pardesh, india",hindi,female
+256,3199,hindi8_pitch1,"imphal, india",hindi,male
+257,3200,hindi8_pitch2,"imphal, india",hindi,male
+258,3201,hindi8_roll,"imphal, india",hindi,male
+259,3202,hindi8_roll2,"imphal, india",hindi,male
+260,3203,hindi8_stretch1,"imphal, india",hindi,male
+261,3204,hindi8_stretch2,"imphal, india",hindi,male
+262,3205,hindi8_wn,"imphal, india",hindi,male
+263,3206,hindi8_wn2,"imphal, india",hindi,male
+264,3207,hindi9_pitch1,"durgapur, west bengal, india",hindi,male
+265,3208,hindi9_pitch2,"durgapur, west bengal, india",hindi,male
+266,3209,hindi9_roll,"durgapur, west bengal, india",hindi,male
+267,3210,hindi9_roll2,"durgapur, west bengal, india",hindi,male
+268,3211,hindi9_stretch1,"durgapur, west bengal, india",hindi,male
+269,3212,hindi9_stretch2,"durgapur, west bengal, india",hindi,male
+270,3213,hindi9_wn,"durgapur, west bengal, india",hindi,male
+271,3214,hindi9_wn2,"durgapur, west bengal, india",hindi,male
